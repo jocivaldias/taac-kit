@@ -1,0 +1,14 @@
+{
+  "headers": {
+    "Authorization": "Bearer token123",
+    "X-Correlation-Id": "test-id-001"
+  },
+  "queryParams": {
+    "page": "1",
+    "size": "10"
+  },
+  "body": {
+    "name": "João",
+    "email": "joao@test.com"
+  }
+}
